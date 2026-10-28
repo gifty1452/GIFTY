@@ -1,0 +1,6 @@
+{
+  "name": "Apex Tactics: Tactical PvP Shooter",
+  "description": "Game PvP shooter kompetitif berkecepatan tinggi dengan kontrol presisi, recoil dinamis, mekanik pergerakan lincah, kemampuan hero, dan arena pertempuran seimbang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
